@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I am Petr Veselý also known as veslo5 or vessyk.
 
-<!--
-**Veslo5/Veslo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Czech 🇨🇿 .NET software developer. I also trying to make games.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+Feel free to contact [me](mailto:petr.vesely@devlair.cz) and don't forget to take a look at my blog :)
+
+[About me](https://devlair.cz/aboutme)
+
+[Blog](https://devlair.cz)
+
+
+
+## About
+
+- **Favorite game engine:** Unity and I also like idea behind Defold.
+- **Favorite game framework:** Love2D
+- **Favorite editor/IDE:** Visual Studio, Visual Studio Code, Notepad++
+- **Favorite OS:** Windows, Linux Mint, SteamOS, Android
+- **Favorite programming languages:** C#, lua, C++, Haxe
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veslo5&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
